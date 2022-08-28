@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [my portfolio.](https://chittenikhil250.netlify.app/)
 
-- 📄 Know about my experiences [in my resume.](https://chittenikhil250.netlify.app/static/media/resume.09d05eb735f1cdec757b.docx)
+- 📄 Know about my experiences [in my resume.](https://chittenikhil250.netlify.app/static/media/resume.cad96abb09aa782c4913.docx)
 
 - 📫 How to reach me : **chnikhil250@gmail.com**
 
