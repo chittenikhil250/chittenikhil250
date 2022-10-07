@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nikhil Chitte</h1>
-<h3 align="center">A passionate web3 enthusiast</h3>
+<h3 align="center">Web3 enthusiast</h3>
 
 <p align="left"> <a href="https://twitter.com/chitte_nikhil" target="blank"><img src="https://img.shields.io/twitter/follow/chitte_nikhil?logo=twitter&style=for-the-badge" alt="chitte_nikhil" /></a> </p>
 
-- 🌱 I’m currently learning **rust for solana.**
+- 🌱 I’m currently learning **Go and AWS**
 
-- 👯 I’m looking to collaborate on **innovative projects.**
-
-- 🤝 I’m looking for help with **my web3 dev career.**
+- 👯 I’m looking to collaborate on **opensource projects.**
 
 - 💬 Ask me about **full stack dev.**
 
