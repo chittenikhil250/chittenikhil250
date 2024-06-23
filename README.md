@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nikhil Chitte</h1>
-<h3 align="center">Web3 enthusiast</h3>
 
 <p align="left"> <a href="https://twitter.com/chitte_nikhil" target="blank"><img src="https://img.shields.io/twitter/follow/chitte_nikhil?logo=twitter&style=for-the-badge" alt="chitte_nikhil" /></a> </p>
 
@@ -8,8 +7,6 @@
 - 👯 I’m looking to collaborate on **opensource projects.**
 
 - 👨‍💻 All of my projects are available at [my portfolio.](https://chittenikhil250.netlify.app/)
-
-- 📄 Know about my experiences [in my resume.](https://drive.google.com/file/d/1bLVP53pjF5HmE2NAIh8JYb6uVd1fnm8E/view?usp=share_link)
 
 - 📫 How to reach me : **chnikhil250@gmail.com**
 
